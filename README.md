@@ -8,7 +8,7 @@ I'm mainly working with JS, Vue, Node, Electron and Tauri
     - 💻 [cli](https://github.com/ElectronForConstruct/cli): The Cyn CLI
     - ✔️ [Automated Greenworks builds](https://github.com/ElectronForConstruct/greenworks-prebuilds): Automated generation of `.node` addons of [greenworks](https://github.com/greenheartgames/greenworks)
     - 🌐 [Greenworks Prebuilds Website](https://github.com/ElectronForConstruct/greenworks-prebuilds-website): Frontend of **Automated Greenworks builds**
-  - 👥 [Construct Community](https://github.com/WebCreationClub): Managing a 1500+ members [Discord server](https://discord.gg/dZDU7Re) about [Construct](https://www.construct.net)
+  - 👥 [Construct Community](https://github.com/WebCreationClub): Managing a 1800+ members [Discord server](https://discord.gg/dZDU7Re) about [Construct](https://www.construct.net)
     - 🤖 [Alfred Botler](https://github.com/WebCreationClub/alfred-botler): A discord bot to help us manage the community
     - 📜 [Awesome Construct](https://github.com/WebCreationClub/awesome-construct): A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
     - 📧 [Preparing a newsletter](#not-available-yet): [stay tuned!](https://ccnewsletter.armaldio.xyz)
