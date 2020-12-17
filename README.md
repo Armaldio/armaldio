@@ -17,6 +17,7 @@ I'm mainly working with JS, Vue, Node, Electron and Tauri
 
 <p align="center">
   <img alt="My github stats" src="https://github-readme-stats.vercel.app/api?username=armaldio&show_icons=true&count_private=true" />
+  <br>
   <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
   <p align="center">
     <a href="https://twitter.com/armaldio" alt="Twitter">
