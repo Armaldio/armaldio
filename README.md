@@ -4,8 +4,8 @@ I'm a Javascript enthusiast ⚡
 I'm mainly working with JS, Vue, Node, Electron and Tauri
 
 - 🗂️ Projects:
-  - 👾 [Cyn](https://github.com/ElectronForConstruct): Game-oriented task runner. Allow you to automate tedious tasks related to game development such as bundling your game, protecting assets or publishing to online platforms (itch.io, steam, ...)
-    - 💻 [cli](https://github.com/ElectronForConstruct/cli): The Cyn CLI
+  - 👾 [Cyn](https://github.com/CynToolkit): Game-oriented task runner. Allow you to automate tedious tasks related to game development such as bundling your game, protecting assets or publishing to online platforms (itch.io, steam, ...)
+    - :electron: [Desktop app](https://github.com/CynToolkit/cyn): Desktop app for running your tasks
     - ✔️ [Automated Greenworks builds](https://github.com/ElectronForConstruct/greenworks-prebuilds): Automated generation of `.node` addons of [greenworks](https://github.com/greenheartgames/greenworks)
     - 🌐 [Greenworks Prebuilds Website](https://github.com/ElectronForConstruct/greenworks-prebuilds-website): Frontend of **Automated Greenworks builds**
   - 👥 [Construct Community](https://github.com/WebCreationClub): Managing a 1800+ members [Discord server](https://discord.gg/dZDU7Re) about [Construct](https://www.construct.net)
