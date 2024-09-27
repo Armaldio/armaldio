@@ -13,6 +13,7 @@ I'm mainly working with JS, Vue, Node, Electron and Tauri
     - 📜 [Awesome Construct](https://github.com/WebCreationClub/awesome-construct): A curated list of tools, tutorials, examples, and much more, for the awesome game development engines Construct 2 and Construct 3
     - 📧 [Preparing a newsletter](#not-available-yet): [stay tuned!](https://ccnewsletter.armaldio.xyz)
   - ⚙ [Modules ABI](https://github.com/Armaldio/modules-abi): Easily query abi and target versions of common desktop runtimes (Electron, NWjs, Node.js)
+  - 🪟▶ [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron): Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser!
 - 💖 [Sponsor me](https://github.com/sponsors/Armaldio)
 
 <p align="center">
